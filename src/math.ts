@@ -1,3 +1,4 @@
+//./src/math.ts
 /**
  * Adds two numbers
  * @param a First number
