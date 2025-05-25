@@ -78,18 +78,6 @@ Outputs formatted error messages with:
 - Blue inverted file path
 - Stack trace (if available)
 
-## Development
-
-```bash
-# Run tests
-npm test
-
-# Build project
-npm run build
-
-# Lint code
-npm run lint
-```
 
 ## License
 
