@@ -1,11 +1,15 @@
-# 04Utils ![npm](https://img.shields.io/npm/v/04-utils)
+# 04Utils ![npm](https://img.shields.io/npm/v/04-utils) 
 
 A collection of essential utility functions by [shailesh-04](https://github.com/shailesh-04)
+
+🔗 **Package Link:** [https://www.npmjs.com/package/04-utils](https://www.npmjs.com/package/04-utils)
 
 ## Installation
 
 ```bash
 npm install 04-utils
+# or
+yarn add 04-utils
 ```
 
 ## Color Utility
