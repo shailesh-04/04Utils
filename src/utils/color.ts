@@ -94,5 +94,4 @@ export const catchErr = (err: unknown, path: string): void => {
     [err instanceof Error ? '\n' + err.stack?.split('\n').slice(1).join('\n') : '', 'white']
   );
 }
-
 export default color;

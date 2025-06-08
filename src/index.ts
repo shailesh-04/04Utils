@@ -1,4 +1,2 @@
-export * from './math';
-export * from './color';
-
-// Export other utilities here
+export * from "./utils/random";
+export * from './utils/color';

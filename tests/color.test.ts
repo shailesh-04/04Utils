@@ -1,4 +1,4 @@
-import { color, catchErr } from '../src/color';
+import { color, catchErr } from '../src/utils/color';
 
 describe('color utility', () => {
   let originalConsoleLog: typeof console.log;
